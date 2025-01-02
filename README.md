@@ -1,2 +1,3 @@
 # Churn Prediction
  
+This notebook implements two machine learning classifiers, K-Nearest Neighbors (KNN) and Decision Tree Classifier, to predict customer churn based on various features. The dataset includes attributes such as 'gender', 'Partner', 'Dependents', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', and 'PaymentMethod'. These classifiers are used to build models that predict whether a customer is likely to churn, helping businesses identify at-risk customers and improve retention strategies.
